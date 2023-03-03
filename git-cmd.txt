@@ -1,0 +1,21 @@
+git init - initialize git repository first time.
+git clone - To Clone all files from git repository.
+
+git config --global user.name rakeshast
+git config --global user.email rakesh.bokde@arsenaltech.com
+
+check which user working.
+git config --global user.name
+git config --global user.email
+
+git clone or git init starting with git
+
+ls -lart to view all files and folder.
+
+ls - To View all files and folders.
+
+echo "Hello world" > index.html = To add content in index.html
+
+cat index.html = To view all content inside file
+
+git status = To get stutus of files and folders.
